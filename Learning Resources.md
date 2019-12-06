@@ -2,11 +2,13 @@
 
 ### Swift && iOS
 
-https://www.hackingwithswift.com/100
+[Hacking with Swift by Paul Hudson](https://www.hackingwithswift.com/100)
+
+[Learn iOS App Development in 28 Days by Code with Chris](https://codewithchris.com/ios-app-development/)
 
 ### SwiftUI
 
-https://www.hackingwithswift.com/100/swiftui
+[Hacking with SwiftUI by Paul Hudson]https://www.hackingwithswift.com/100/swiftui
 
 ### MacOS
 
