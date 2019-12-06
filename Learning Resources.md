@@ -8,7 +8,7 @@
 
 ### SwiftUI
 
-[Hacking with SwiftUI by Paul Hudson]https://www.hackingwithswift.com/100/swiftui
+[Hacking with SwiftUI by Paul Hudson](https://www.hackingwithswift.com/100/swiftui)
 
 ### MacOS
 
